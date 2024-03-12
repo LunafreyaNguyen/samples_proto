@@ -1341,6 +1341,7 @@ GameObject:
   - component: {fileID: 1555680394}
   - component: {fileID: 1555680400}
   - component: {fileID: 1555680399}
+  - component: {fileID: 1555680401}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -1450,7 +1451,7 @@ AudioSource:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1555680393}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 5d1066c7deb714b92ae89f0a82ccdcef, type: 3}
@@ -1540,6 +1541,37 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1555680401
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1555680393}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a6610d2e704f1648819acc8d7460285, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CollisionTag: 
+  EventReference:
+    Guid:
+      Data1: -1414791435
+      Data2: 1307551568
+      Data3: 1604057737
+      Data4: -1658881952
+    Path: event:/TestLightningEvent
+  Event: 
+  PlayEvent: 1
+  StopEvent: 0
+  AllowFadeout: 1
+  TriggerOnce: 0
+  Preload: 0
+  AllowNonRigidbodyDoppler: 0
+  Params: []
+  OverrideAttenuation: 0
+  OverrideMinDistance: 1
+  OverrideMaxDistance: 20
 --- !u!1 &1606068562
 GameObject:
   m_ObjectHideFlags: 0
@@ -1550,7 +1582,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1606068565}
   - component: {fileID: 1606068564}
-  - component: {fileID: 1606068563}
+  - component: {fileID: 1606068566}
   m_Layer: 0
   m_Name: Camera
   m_TagString: Untagged
@@ -1558,14 +1590,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!81 &1606068563
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1606068562}
-  m_Enabled: 1
 --- !u!20 &1606068564
 Camera:
   m_ObjectHideFlags: 0
@@ -1632,6 +1656,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1606068566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1606068562}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86c6556701af9e04380698b89f691b6e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attenuationObject: {fileID: 0}
 --- !u!1 &2009218321
 GameObject:
   m_ObjectHideFlags: 0

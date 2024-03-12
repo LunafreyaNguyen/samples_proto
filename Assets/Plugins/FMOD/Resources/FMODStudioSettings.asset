@@ -244,9 +244,9 @@ MonoBehaviour:
   HasSourceProject: 0
   HasPlatforms: 0
   sourceProjectPath: 
-  sourceBankPath: Assets/FMODBanks/Desktop
+  sourceBankPath: Assets/FMODBanks/Desktop/Desktop
   sourceBankPathUnformatted: 
-  BankRefreshCooldown: 5
+  BankRefreshCooldown: 1
   ShowBankRefreshWindow: 1
   AutomaticEventLoading: 1
   BankLoadType: 0
@@ -267,6 +267,7 @@ MonoBehaviour:
   Plugins: []
   MasterBanks:
   - Master
+  - Desktop/Master
   Banks: []
   BanksToLoad: []
   LiveUpdatePort: 9264
