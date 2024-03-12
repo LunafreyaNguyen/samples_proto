@@ -5144,3 +5144,1652 @@ Memory consumption went from 483.9 MB to 482.0 MB.
 Total: 5.458750 ms (FindLiveObjects: 0.262458 ms CreateObjectMapping: 0.170625 ms MarkObjects: 3.739709 ms  DeleteObjects: 1.285500 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 4019.372835 seconds.
+  path: Assets/Scenes/mainmenu.unity
+  artifactKey: Guid(8edf31949a6f1488387ca77ec6756554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/mainmenu.unity using Guid(8edf31949a6f1488387ca77ec6756554) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0189f48af30d6467c562faf78668e455') in 0.031514792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.970829 seconds.
+  path: Assets/Scenes/level1.unity
+  artifactKey: Guid(dbd7ab095eab740a48b0eaca934edc28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/level1.unity using Guid(dbd7ab095eab740a48b0eaca934edc28) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '11f150bbfd6648a3ed1f82bc42a18151') in 0.000679792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.519893 seconds.
+  path: Assets/Scenes/levelselect.unity
+  artifactKey: Guid(caa6360c3426f4a0b9e24efb1dcda104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/levelselect.unity using Guid(caa6360c3426f4a0b9e24efb1dcda104) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0a99c5a25a34d5749fda158db4fda436') in 0.000632958 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.969491 seconds.
+  path: Assets/quitGame.cs
+  artifactKey: Guid(8970933bf253a446c8e24124d4dc07d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/quitGame.cs using Guid(8970933bf253a446c8e24124d4dc07d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6395539357ec5b9d8e775fa8dd6b2f6a') in 0.002455167 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.64 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4212 unused Assets / (0.9 MB). Loaded Objects now: 4842.
+Memory consumption went from 478.6 MB to 477.6 MB.
+Total: 27.357459 ms (FindLiveObjects: 0.781542 ms CreateObjectMapping: 0.195625 ms MarkObjects: 25.515125 ms  DeleteObjects: 0.864542 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 9.488050 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '93737e884685dce85de5ef91dc5a26d5') in 0.0004385 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x31a0c7000 may have been prematurely finalized
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image /Users/lunanguyen/Documents/GitHub/samples_proto/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/lunanguyen/Documents/GitHub/samples_proto/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.514 seconds
+Refreshing native plugins compatible for Editor in 2.88 ms, found 5 plugins.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 2.59 ms, found 5 plugins.
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.459 seconds
+Domain Reload Profiling: 975ms
+	BeginReloadAssembly (155ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (15ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (66ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (48ms)
+	LoadAllAssembliesAndSetupDomain (269ms)
+		LoadAssemblies (187ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (123ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (106ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (459ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (305ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (33ms)
+			ProcessInitializeOnLoadAttributes (245ms)
+			ProcessInitializeOnLoadMethodAttributes (20ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Refreshing native plugins compatible for Editor in 2.50 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4283 unused Assets / (1.2 MB). Loaded Objects now: 4842.
+Memory consumption went from 489.2 MB to 488.0 MB.
+Total: 5.922833 ms (FindLiveObjects: 0.374583 ms CreateObjectMapping: 0.167167 ms MarkObjects: 4.178833 ms  DeleteObjects: 1.201583 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 7.302569 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.001607833 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.284137 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000383084 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053646 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000308292 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.097894 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000404875 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.203916 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.00032975 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.098964 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000290583 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.099088 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000420667 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.213024 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000301459 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.186756 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000296083 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.102613 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.00027775 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.107682 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000625458 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.192520 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000519583 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.195046 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000497791 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.206924 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000474042 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.201594 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000927541 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.219219 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000381833 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.164680 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000356916 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.331512 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000293583 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.061320 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000272166 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.206589 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.0005515 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.099472 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000475208 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.197352 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000453333 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.103184 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000522458 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.108265 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000445333 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.084788 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000570667 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.197865 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000493167 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.200027 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000438958 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.202410 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000475667 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.219194 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.00039375 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.175884 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000798041 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.097077 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000381417 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.198374 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000423791 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.223870 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000473958 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.175582 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.00050625 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.098450 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000507291 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.103176 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000802583 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.116529 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000412833 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.174703 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000363084 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.200749 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.00058875 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.198762 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000629791 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.098245 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000478333 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.098785 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000793666 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.099055 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000738459 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.197346 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000470166 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.199388 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000516208 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.098576 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000737541 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.098691 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000504666 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.198358 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000499875 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.097681 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000399291 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.205754 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000675583 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.192894 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.0006945 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.097968 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000507958 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.198781 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000380334 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.100446 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000713917 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.196569 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.0002855 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.200174 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.00044425 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.200398 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.001671875 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.197484 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000574625 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.204869 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000467708 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.095066 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000549458 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.197494 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000698041 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.103569 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000603916 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.191306 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000703416 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.100946 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.0006065 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.196761 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000476041 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.099892 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000539542 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.098252 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000541292 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.198991 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000465959 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.197603 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000518459 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.099296 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000407791 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.096959 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000377625 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.201196 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000344833 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.098396 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000313084 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.197838 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000431459 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.200811 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000733417 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.104881 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000566167 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.093265 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000579709 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.198324 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000540666 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.199292 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.00047575 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.099059 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000498292 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.197615 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.0004305 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.099583 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000405 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.098561 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.00072275 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.098275 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000791666 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.098211 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000702541 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.197311 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000419291 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.100510 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.001696 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.097634 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000485833 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.199217 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000455167 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.098708 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000487958 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.201804 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000597875 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.195430 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000412625 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.197463 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000352041 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.099473 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000611417 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.196138 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000432042 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.098440 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000529 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.101067 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000404875 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.098748 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000479875 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.100036 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000680333 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.098389 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000545333 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.200059 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000547334 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.198131 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000533208 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.099002 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000334125 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.099052 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000407791 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.099003 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000525791 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.202982 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000412417 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.092998 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000391083 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.199084 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000408792 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.200127 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000603166 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.098436 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.0006285 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.098874 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000625334 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.098084 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000466708 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.199348 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000483333 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.197820 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.00036175 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.100671 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000548292 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.197059 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000413916 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.099217 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000391708 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.099548 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000429125 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.199678 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.0007315 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.102982 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000407917 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.195085 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.000502875 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.199146 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.0004745 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:31Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.198816 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00000000000000000000000000000000') in 0.0006345 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:52Z'
+  ERROR: Build asset version error: assets/escgoback.cs in SourceAssetDB has modification time of '2024-03-12T18:31:25Z' while content on disk has modification time of '2024-03-12T18:31:52Z'
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.85 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4212 unused Assets / (1.5 MB). Loaded Objects now: 4842.
+Memory consumption went from 484.1 MB to 482.6 MB.
+Total: 8.130625 ms (FindLiveObjects: 0.249167 ms CreateObjectMapping: 0.156959 ms MarkObjects: 6.023000 ms  DeleteObjects: 1.701125 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.332110 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7df882ffef696c9eabe30857c198aeef') in 0.00072525 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.95 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4212 unused Assets / (1.3 MB). Loaded Objects now: 4842.
+Memory consumption went from 483.6 MB to 482.3 MB.
+Total: 18.740959 ms (FindLiveObjects: 0.334791 ms CreateObjectMapping: 0.160792 ms MarkObjects: 17.152208 ms  DeleteObjects: 1.092417 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 44.464258 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1ace08aea2f7b858fce87f2f740af560') in 0.00221975 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.19 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4212 unused Assets / (0.7 MB). Loaded Objects now: 4842.
+Memory consumption went from 483.2 MB to 482.5 MB.
+Total: 5.272792 ms (FindLiveObjects: 0.276125 ms CreateObjectMapping: 0.163000 ms MarkObjects: 3.785833 ms  DeleteObjects: 1.046209 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 12.101561 seconds.
+  path: Assets/escGoBack.cs
+  artifactKey: Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/escGoBack.cs using Guid(e3a034883d22b4727aebe6ffc275b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '803e6d5a99053b50aaabe5c1ace5b94c') in 0.000968208 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x31a0c7000 may have been prematurely finalized
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image /Users/lunanguyen/Documents/GitHub/samples_proto/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/lunanguyen/Documents/GitHub/samples_proto/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.526 seconds
+Refreshing native plugins compatible for Editor in 2.95 ms, found 5 plugins.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 2.43 ms, found 5 plugins.
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.478 seconds
+Domain Reload Profiling: 1006ms
+	BeginReloadAssembly (173ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (20ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (70ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (21ms)
+	LoadAllAssembliesAndSetupDomain (289ms)
+		LoadAssemblies (213ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (116ms)
+			TypeCache.Refresh (14ms)
+				TypeCache.ScanAssembly (3ms)
+			BuildScriptInfoCaches (96ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (479ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (325ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (35ms)
+			ProcessInitializeOnLoadAttributes (262ms)
+			ProcessInitializeOnLoadMethodAttributes (22ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Refreshing native plugins compatible for Editor in 2.47 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4283 unused Assets / (0.9 MB). Loaded Objects now: 4842.
+Memory consumption went from 493.8 MB to 492.9 MB.
+Total: 7.892375 ms (FindLiveObjects: 0.283250 ms CreateObjectMapping: 0.160458 ms MarkObjects: 5.546875 ms  DeleteObjects: 1.901125 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x31a0c7000 may have been prematurely finalized
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image /Users/lunanguyen/Documents/GitHub/samples_proto/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/lunanguyen/Documents/GitHub/samples_proto/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.432 seconds
+Refreshing native plugins compatible for Editor in 2.59 ms, found 5 plugins.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 2.48 ms, found 5 plugins.
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.468 seconds
+Domain Reload Profiling: 903ms
+	BeginReloadAssembly (116ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (10ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (46ms)
+	RebuildCommonClasses (29ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (16ms)
+	LoadAllAssembliesAndSetupDomain (261ms)
+		LoadAssemblies (189ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (104ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (90ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (469ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (314ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (34ms)
+			ProcessInitializeOnLoadAttributes (251ms)
+			ProcessInitializeOnLoadMethodAttributes (22ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Refreshing native plugins compatible for Editor in 2.42 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4283 unused Assets / (1.4 MB). Loaded Objects now: 4842.
+Memory consumption went from 499.5 MB to 498.2 MB.
+Total: 5.080833 ms (FindLiveObjects: 0.251208 ms CreateObjectMapping: 0.158375 ms MarkObjects: 3.690750 ms  DeleteObjects: 0.980000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
